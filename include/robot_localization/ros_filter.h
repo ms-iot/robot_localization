@@ -55,8 +55,8 @@
 #include <tf2_ros/message_filter.h>
 #include <tf2/LinearMath/Transform.h>
 #include <message_filters/subscriber.h>
-#include <diagnostic_updater/diagnostic_updater.h>
 #include <diagnostic_updater/publisher.h>
+#include <diagnostic_updater/diagnostic_updater.h>
 #include <diagnostic_msgs/DiagnosticStatus.h>
 
 #include <XmlRpcException.h>
